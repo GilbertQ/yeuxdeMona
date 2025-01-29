@@ -26,6 +26,7 @@ const ImageGallery = () => {
             alt={`Thumbnail ${index}`}
             className={selectedImage === img ? "active" : ""}
             onClick={() => setSelectedImage(img)}
+            title={images[index].slice(images[index].lastIndexOf("/") + 1)}
           />
         ))}
         
