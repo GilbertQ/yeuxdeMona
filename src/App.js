@@ -1,13 +1,13 @@
 import React from 'react';
 import { CssBaseline, Container } from '@mui/material';
-import Map from './Map';
+import ImageGallery from './Components/ImageGallery';
 
 function App() {
   return (
     <>
       <CssBaseline />
       <Container>
-        <Map />
+        <ImageGallery />
       </Container>
     </>
   );
