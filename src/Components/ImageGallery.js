@@ -1,30 +1,21 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
+import "./Gallery.css";
+
+// Import your images (adjust the paths according to your folder structure)
+import image1 from './toiles/First/01SandroBotticelliVenusyJoven1486.jpeg';
+import image2 from './toiles/First/02LeonardodaVinciLaGioconda1519.jpg';
+import image3 from './toiles/Second/06FransHalsLaGitana1630.jpg';
+import image4 from './toiles/Second/07RembrandtSelfPortraitEasel1660.jpg';
+
+const images = [
+  { id: 1, src: image1, alt: 'Image 1' },
+  { id: 2, src: image2, alt: 'Image 2' },
+  { id: 3, src: image3, alt: 'Image 3' },
+  { id: 4, src: image4, alt: 'Image 4' },
+];
 
 const ImageGallery = () => {
-  const [images, setImages] = useState([]);
   const [selectedImage, setSelectedImage] = useState(null);
-
-  useEffect(() => {
-    // Fetch the list of images from the public folder
-    fetch('/images')
-      .then((response) => response.text())
-      .then((html) => {
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
-        const links = Array.from(doc.querySelectorAll('a'))
-          .map((link) => link.href)
-          .filter((href) => /\.(png|jpe?g|svg)$/.test(href));
-
-        const loadedImages = links.map((src, index) => ({
-          id: index + 1,
-          src,
-          alt: `Image ${index + 1}`,
-        }));
-
-        setImages(loadedImages);
-      })
-      .catch((error) => console.error('Error fetching images:', error));
-  }, []);
 
   const handleImageClick = (image) => {
     setSelectedImage(image);
