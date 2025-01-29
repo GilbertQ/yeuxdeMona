@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.99b55d13.css",
-    "main.js": "/yeuxdeMona/static/js/main.51831b44.js",
+    "main.js": "/yeuxdeMona/static/js/main.a8c77620.js",
     "static/js/453.b9296ef9.chunk.js": "/yeuxdeMona/static/js/453.b9296ef9.chunk.js",
     "static/media/09NicolasPoussinArcadia1638.jpg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.b7be6fc355a52540f365.jpg",
     "static/media/08JohannesVermeerTheAstronomer1669.jpg": "/yeuxdeMona/static/media/08JohannesVermeerTheAstronomer1669.fc3a153df4074ed954c4.jpg",
@@ -14,11 +14,11 @@
     "static/media/07RembrandtSelfPortraitEasel1660.jpg": "/yeuxdeMona/static/media/07RembrandtSelfPortraitEasel1660.1bb56ae75c99072191fd.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.99b55d13.css.map": "/yeuxdeMona/static/css/main.99b55d13.css.map",
-    "main.51831b44.js.map": "/yeuxdeMona/static/js/main.51831b44.js.map",
+    "main.a8c77620.js.map": "/yeuxdeMona/static/js/main.a8c77620.js.map",
     "453.b9296ef9.chunk.js.map": "/yeuxdeMona/static/js/453.b9296ef9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b55d13.css",
-    "static/js/main.51831b44.js"
+    "static/js/main.a8c77620.js"
   ]
 }
