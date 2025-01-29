@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yeuxdeMona/static/css/main.323d7611.css",
+    "main.js": "/yeuxdeMona/static/js/main.8cf13840.js",
+    "static/js/453.ee71460b.chunk.js": "/yeuxdeMona/static/js/453.ee71460b.chunk.js",
+    "index.html": "/yeuxdeMona/index.html",
+    "main.323d7611.css.map": "/yeuxdeMona/static/css/main.323d7611.css.map",
+    "main.8cf13840.js.map": "/yeuxdeMona/static/js/main.8cf13840.js.map",
+    "453.ee71460b.chunk.js.map": "/yeuxdeMona/static/js/453.ee71460b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.8cf13840.js"
+  ]
+}
