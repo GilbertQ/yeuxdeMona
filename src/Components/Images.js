@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Magnifier } from "react-image-magnifiers";
 import "./Images.css"; // Ensure you create this CSS file
 
 // Import images
@@ -16,6 +17,8 @@ const ImageGallery = () => {
       <div className="main-image">
         <img src={selectedImage} alt="Selected Artwork" />
       </div>
+
+
 
       {/* Thumbnail Images */}
       <div className="thumbnails">

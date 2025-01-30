@@ -5,12 +5,14 @@
     width: 100%;
   }
   
+
   .main-image img {
     width: 80vw; /* Large image takes most of the screen width */
-    max-height: 80vh; /* Prevent overflow */
+    max-height: 90vh; /* Prevent overflow */
     object-fit: contain;
     transition: transform 0.3s ease-in-out;
   }
+
   
   .thumbnails {
     display: flex;
