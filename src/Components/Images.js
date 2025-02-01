@@ -16,9 +16,23 @@ const importAndSortImages = () => {
 
 const sortedImages = importAndSortImages();
 
-
 const ImageGallery = () => {
   const [selectedImage, setSelectedImage] = useState(sortedImages[0]);
+  const [startIndex, setStartIndex] = useState(0);
+  const maxVisibleThumbnails = 4;
+
+  const handleNext = () => {
+    if (startIndex + maxVisibleThumbnails < sortedImages.length) {
+      setStartIndex(startIndex + 1);
+    }
+  };
+
+  const handlePrev = () => {
+    if (startIndex > 0) {
+      setStartIndex(startIndex - 1);
+    }
+  };
+
   return (
     <div className="gallery-container">
       {/* Large Main Image */}
@@ -26,23 +40,24 @@ const ImageGallery = () => {
         <img src={selectedImage} alt="Selected Artwork" />
       </div>
 
+      {/* Thumbnail Carousel */}
+      <div className="thumbnail-carousel">
+        <button onClick={handlePrev} disabled={startIndex === 0}>&lt;</button>
+        <button onClick={handleNext} disabled={startIndex + maxVisibleThumbnails >= sortedImages.length}>&gt;</button>
+        <div className="thumbnails">
+          {sortedImages.slice(startIndex, startIndex + maxVisibleThumbnails).map((img, index) => (
+            <img
+              key={startIndex + index}
+              src={img}
+              alt={`Thumbnail ${startIndex + index}`}
+              className={selectedImage === img ? "active" : ""}
+              onClick={() => setSelectedImage(img)}
+              title={img.slice(img.lastIndexOf("/") + 3).split(".")[0]}
+            />
+          ))}
+        </div>
 
-
-      {/* Thumbnail Images */}
-      <div className="thumbnails">
-        {sortedImages.map((img, index) => (
-          <img
-            key={index}
-            src={img}
-            alt={`Thumbnail ${index}`}
-            className={selectedImage === img ? "active" : ""}
-            onClick={() => setSelectedImage(img)}
-            title={sortedImages[index].slice(sortedImages[index].lastIndexOf("/") + 3).split(".")[0]}
-          />
-        ))}
-        
       </div>
-      
     </div>
   );
 };
