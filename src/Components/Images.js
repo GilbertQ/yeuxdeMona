@@ -42,9 +42,10 @@ const ImageGallery = () => {
 
       {/* Thumbnail Carousel */}
       <div className="thumbnail-carousel">
-        <button onClick={handlePrev} disabled={startIndex === 0}>&lt;</button>
-        <button onClick={handleNext} disabled={startIndex + maxVisibleThumbnails >= sortedImages.length}>&gt;</button>
+        
+        
         <div className="thumbnails">
+        <button onClick={handlePrev} disabled={startIndex === 0} style={{ width: '75px' }}>&lt;</button>
           {sortedImages.slice(startIndex, startIndex + maxVisibleThumbnails).map((img, index) => (
             <img
               key={startIndex + index}
@@ -55,6 +56,7 @@ const ImageGallery = () => {
               title={img.slice(img.lastIndexOf("/") + 3).split(".")[0]}
             />
           ))}
+          <button onClick={handleNext} disabled={startIndex + maxVisibleThumbnails >= sortedImages.length} style={{ width: '75px' }}>&gt;</button>
         </div>
 
       </div>
