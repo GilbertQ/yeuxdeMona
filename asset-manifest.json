@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.0cdfc4e1.js",
+    "main.js": "/yeuxdeMona/static/js/main.9e929acd.js",
     "static/js/453.70fff28e.chunk.js": "/yeuxdeMona/static/js/453.70fff28e.chunk.js",
-    "static/media/22RosaBonheurLabourage1849.jpg": "/yeuxdeMona/static/media/22RosaBonheurLabourage1849.324e9b637307b8f477ca.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.b7be6fc355a52540f365.jpg",
     "static/media/08JohannesVermeerTheAstronomer1669.jpg": "/yeuxdeMona/static/media/08JohannesVermeerTheAstronomer1669.fc3a153df4074ed954c4.jpg",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
@@ -17,7 +16,9 @@
     "static/media/12AntonioCanalettoLaMole1755.jpg": "/yeuxdeMona/static/media/12AntonioCanalettoLaMole1755.e6cc558e0081d79b1c29.jpg",
     "static/media/10PhilippedeChampaigneExvoto1662.jpg": "/yeuxdeMona/static/media/10PhilippedeChampaigneExvoto1662.8c4ccfb96d10526577bd.jpg",
     "static/media/13ThomasGainsboroughConversation1798.jpg": "/yeuxdeMona/static/media/13ThomasGainsboroughConversation1798.1ae420859abdbb44cdcf.jpg",
+    "static/media/22RosaBonheurLabourage1849-.jpeg": "/yeuxdeMona/static/media/22RosaBonheurLabourage1849-.f66e4fe27f53f9bd06b2.jpeg",
     "static/media/02LeonardodaVinciLaGioconda1519.jpg": "/yeuxdeMona/static/media/02LeonardodaVinciLaGioconda1519.442469f6930afca092dd.jpg",
+    "static/media/23JamesWhistlerArrangeinGray1891.jpg": "/yeuxdeMona/static/media/23JamesWhistlerArrangeinGray1891.f6a235ccd33748f6c6f4.jpg",
     "static/media/18CasparDavidFriedrichTreeOfCrows1822.jpg": "/yeuxdeMona/static/media/18CasparDavidFriedrichTreeOfCrows1822.f60c7ff81a45e0272779.jpg",
     "static/media/11AntoineWatteauPierrot1721.jpg": "/yeuxdeMona/static/media/11AntoineWatteauPierrot1721.80f519f44ec9eeccfd1a.jpg",
     "static/media/16Marie-GuillemineBenoistPortraitofaNegress1885.jpg": "/yeuxdeMona/static/media/16Marie-GuillemineBenoistPortraitofaNegress1885.3623d97b48b37e1f9e2a.jpg",
@@ -27,11 +28,11 @@
     "static/media/07RembrandtSelfPortraitEasel1660.jpg": "/yeuxdeMona/static/media/07RembrandtSelfPortraitEasel1660.1bb56ae75c99072191fd.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.0cdfc4e1.js.map": "/yeuxdeMona/static/js/main.0cdfc4e1.js.map",
+    "main.9e929acd.js.map": "/yeuxdeMona/static/js/main.9e929acd.js.map",
     "453.70fff28e.chunk.js.map": "/yeuxdeMona/static/js/453.70fff28e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.0cdfc4e1.js"
+    "static/js/main.9e929acd.js"
   ]
 }
