@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.9cc3e1a7.js",
+    "main.js": "/yeuxdeMona/static/js/main.1cf08b73.js",
     "static/js/453.70fff28e.chunk.js": "/yeuxdeMona/static/js/453.70fff28e.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
@@ -15,6 +15,7 @@
     "static/media/17FranciscodeGoyaBodegónCarnero1792.jpg": "/yeuxdeMona/static/media/17FranciscodeGoyaBodegónCarnero1792.e587efe1d117edde68d0.jpg",
     "static/media/08JohannesVermeerTheAstronomer1669.png": "/yeuxdeMona/static/media/08JohannesVermeerTheAstronomer1669.1e51d4e067d29054cdfa.png",
     "static/media/04TizianoConciertoCampestre1510.jpg": "/yeuxdeMona/static/media/04TizianoConciertoCampestre1510.b0b19a80ec00415288c7.jpg",
+    "static/media/32GustavKlimtRoses1905.png": "/yeuxdeMona/static/media/32GustavKlimtRoses1905.b892575aebe82eea0376.png",
     "static/media/12AntonioCanalettoLaMole1755.jpg": "/yeuxdeMona/static/media/12AntonioCanalettoLaMole1755.e6cc558e0081d79b1c29.jpg",
     "static/media/26ClaudeMonetLaGareSaintLazare1877.jpg": "/yeuxdeMona/static/media/26ClaudeMonetLaGareSaintLazare1877.aee7b8221d0ca2d6c8de.jpg",
     "static/media/25EdouardManetLAsperge1880.jpg": "/yeuxdeMona/static/media/25EdouardManetLAsperge1880.504f6b878df8d02ce25d.jpg",
@@ -23,7 +24,9 @@
     "static/media/22RosaBonheurLabourage1849-.jpeg": "/yeuxdeMona/static/media/22RosaBonheurLabourage1849-.f66e4fe27f53f9bd06b2.jpeg",
     "static/media/02LeonardodaVinciLaGioconda1519.jpg": "/yeuxdeMona/static/media/02LeonardodaVinciLaGioconda1519.442469f6930afca092dd.jpg",
     "static/media/29EdwardBurneJOnesLaRouedelaFortune1883.jpg": "/yeuxdeMona/static/media/29EdwardBurneJOnesLaRouedelaFortune1883.791fcf69a2ffa9daf6ec.jpg",
+    "static/media/30VanGoghL'eglise1890.png": "/yeuxdeMona/static/media/30VanGoghL'eglise1890.bcda8b11c9238722d0ff.png",
     "static/media/23JamesWhistlerArrangeinGray1891.jpg": "/yeuxdeMona/static/media/23JamesWhistlerArrangeinGray1891.f6a235ccd33748f6c6f4.jpg",
+    "static/media/31CamilleClauderlMaturity1898.png": "/yeuxdeMona/static/media/31CamilleClauderlMaturity1898.ca4c3c9cea78176a19a5.png",
     "static/media/18CasparDavidFriedrichTreeOfCrows1822.jpg": "/yeuxdeMona/static/media/18CasparDavidFriedrichTreeOfCrows1822.f60c7ff81a45e0272779.jpg",
     "static/media/24JuliaCameronMrsduckworth1872.jpg": "/yeuxdeMona/static/media/24JuliaCameronMrsduckworth1872.8ad2553a5d7ae87f8882.jpg",
     "static/media/11AntoineWatteauPierrot1721.jpg": "/yeuxdeMona/static/media/11AntoineWatteauPierrot1721.80f519f44ec9eeccfd1a.jpg",
@@ -34,11 +37,11 @@
     "static/media/07RembrandtSelfPortraitEasel1660.jpg": "/yeuxdeMona/static/media/07RembrandtSelfPortraitEasel1660.1bb56ae75c99072191fd.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.9cc3e1a7.js.map": "/yeuxdeMona/static/js/main.9cc3e1a7.js.map",
+    "main.1cf08b73.js.map": "/yeuxdeMona/static/js/main.1cf08b73.js.map",
     "453.70fff28e.chunk.js.map": "/yeuxdeMona/static/js/453.70fff28e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.9cc3e1a7.js"
+    "static/js/main.1cf08b73.js"
   ]
 }
