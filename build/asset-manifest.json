@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.b065d659.js",
+    "main.js": "/yeuxdeMona/static/js/main.8a0984ca.js",
     "static/js/453.656cfc3f.chunk.js": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
@@ -15,6 +15,7 @@
     "static/media/27EdgarDegasBallet1878.jpg": "/yeuxdeMona/static/media/27EdgarDegasBallet1878.9d6430ce85f2dd38b42f.jpg",
     "static/media/17FranciscodeGoyaBodegónCarnero1792.jpg": "/yeuxdeMona/static/media/17FranciscodeGoyaBodegónCarnero1792.e587efe1d117edde68d0.jpg",
     "static/media/08JohannesVermeerTheAstronomer1669.png": "/yeuxdeMona/static/media/08JohannesVermeerTheAstronomer1669.1e51d4e067d29054cdfa.png",
+    "static/media/41HannahHochMere1930.jpg": "/yeuxdeMona/static/media/41HannahHochMere1930.d0178021db8b24b9fcd8.jpg",
     "static/media/04TizianoConciertoCampestre1510.jpg": "/yeuxdeMona/static/media/04TizianoConciertoCampestre1510.b0b19a80ec00415288c7.jpg",
     "static/media/32GustavKlimtRoses1905.png": "/yeuxdeMona/static/media/32GustavKlimtRoses1905.b892575aebe82eea0376.png",
     "static/media/12AntonioCanalettoLaMole1755.jpg": "/yeuxdeMona/static/media/12AntonioCanalettoLaMole1755.e6cc558e0081d79b1c29.jpg",
@@ -45,11 +46,11 @@
     "static/media/37KazimirMalevichBlackCross1915.jpg": "/yeuxdeMona/static/media/37KazimirMalevichBlackCross1915.3a2d80713025a1e4457c.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.b065d659.js.map": "/yeuxdeMona/static/js/main.b065d659.js.map",
+    "main.8a0984ca.js.map": "/yeuxdeMona/static/js/main.8a0984ca.js.map",
     "453.656cfc3f.chunk.js.map": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.b065d659.js"
+    "static/js/main.8a0984ca.js"
   ]
 }
