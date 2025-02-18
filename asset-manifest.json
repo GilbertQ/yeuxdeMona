@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.3c72ec64.js",
+    "main.js": "/yeuxdeMona/static/js/main.6aeb061f.js",
     "static/js/453.656cfc3f.chunk.js": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
     "static/media/14MargueriteGerardLeleve1787.jpg": "/yeuxdeMona/static/media/14MargueriteGerardLeleve1787.dbab9b22391bb0a4864a.jpg",
     "static/media/28PaulCezanneMontañaSantaVIctoria1906.jpg": "/yeuxdeMona/static/media/28PaulCezanneMontañaSantaVIctoria1906.251c18097bd7b1e4777c.jpg",
     "static/media/15Jacques-LouisDavidSerment1784.jpg": "/yeuxdeMona/static/media/15Jacques-LouisDavidSerment1784.7b7343d7e341b5631784.jpg",
+    "static/media/39ReneMagritteLemodelerouge1935.jpg": "/yeuxdeMona/static/media/39ReneMagritteLemodelerouge1935.9311521c983ce2e52594.jpg",
     "static/media/21HenriFantinLatourHomenajeaDelacroix1864.jpg": "/yeuxdeMona/static/media/21HenriFantinLatourHomenajeaDelacroix1864.1f9c7253c84651de6425.jpg",
     "static/media/01SandroBotticelliVenusyJoven1486.jpeg": "/yeuxdeMona/static/media/01SandroBotticelliVenusyJoven1486.a0dfff3b6e38420dbc3e.jpeg",
     "static/media/03RafaelSanzioBellaJardinera1507.jpg": "/yeuxdeMona/static/media/03RafaelSanzioBellaJardinera1507.d5b1603f002ebfda5f7a.jpg",
@@ -43,11 +44,11 @@
     "static/media/37KazimirMalevichBlackCross1915.jpg": "/yeuxdeMona/static/media/37KazimirMalevichBlackCross1915.3a2d80713025a1e4457c.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.3c72ec64.js.map": "/yeuxdeMona/static/js/main.3c72ec64.js.map",
+    "main.6aeb061f.js.map": "/yeuxdeMona/static/js/main.6aeb061f.js.map",
     "453.656cfc3f.chunk.js.map": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.3c72ec64.js"
+    "static/js/main.6aeb061f.js"
   ]
 }
