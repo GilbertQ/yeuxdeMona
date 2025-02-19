@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.2f280ec2.js",
+    "main.js": "/yeuxdeMona/static/js/main.3134824b.js",
     "static/js/453.656cfc3f.chunk.js": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
@@ -35,6 +35,7 @@
     "static/media/18CasparDavidFriedrichTreeOfCrows1822.jpg": "/yeuxdeMona/static/media/18CasparDavidFriedrichTreeOfCrows1822.f60c7ff81a45e0272779.jpg",
     "static/media/24JuliaCameronMrsduckworth1872.jpg": "/yeuxdeMona/static/media/24JuliaCameronMrsduckworth1872.8ad2553a5d7ae87f8882.jpg",
     "static/media/11AntoineWatteauPierrot1721.jpg": "/yeuxdeMona/static/media/11AntoineWatteauPierrot1721.80f519f44ec9eeccfd1a.jpg",
+    "static/media/42FridaKahloTheFrame1938.jpg": "/yeuxdeMona/static/media/42FridaKahloTheFrame1938.e39aeb77cb085cd8fa61.jpg",
     "static/media/16Marie-GuillemineBenoistPortraitofaNegress1885.jpg": "/yeuxdeMona/static/media/16Marie-GuillemineBenoistPortraitofaNegress1885.3623d97b48b37e1f9e2a.jpg",
     "static/media/36MarcelDuchampPortebouteilles1914.jpeg": "/yeuxdeMona/static/media/36MarcelDuchampPortebouteilles1914.cfc0c9602b63bf599eb7.jpeg",
     "static/media/20GustaveCourbetaburialatornans1851.jpg": "/yeuxdeMona/static/media/20GustaveCourbetaburialatornans1851.7370ea9c928d917f42d0.jpg",
@@ -46,11 +47,11 @@
     "static/media/37KazimirMalevichBlackCross1915.jpg": "/yeuxdeMona/static/media/37KazimirMalevichBlackCross1915.3a2d80713025a1e4457c.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.2f280ec2.js.map": "/yeuxdeMona/static/js/main.2f280ec2.js.map",
+    "main.3134824b.js.map": "/yeuxdeMona/static/js/main.3134824b.js.map",
     "453.656cfc3f.chunk.js.map": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.2f280ec2.js"
+    "static/js/main.3134824b.js"
   ]
 }
