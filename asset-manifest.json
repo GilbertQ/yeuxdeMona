@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.864d5282.js",
+    "main.js": "/yeuxdeMona/static/js/main.e25d0ed4.js",
     "static/js/453.656cfc3f.chunk.js": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
@@ -43,17 +43,18 @@
     "static/media/38GeorgiaO-keefeRedYellowBlack1924.jpg": "/yeuxdeMona/static/media/38GeorgiaO-keefeRedYellowBlack1924.a419798755ee62a8a812.jpg",
     "static/media/40ConstantinBrancusiOiseaudansl'espace1927.jpg": "/yeuxdeMona/static/media/40ConstantinBrancusiOiseaudansl'espace1927.29828e0348540e6acfee.jpg",
     "static/media/05MiguelAngelLosEsclavos1513.jpg": "/yeuxdeMona/static/media/05MiguelAngelLosEsclavos1513.0a6c2cd166af9bbadaef.jpg",
+    "static/media/45NikideSaintPhalleLaMariee1964.jpg": "/yeuxdeMona/static/media/45NikideSaintPhalleLaMariee1964.3dec3055f73bb227e9ee.jpg",
     "static/media/19WilliamTurnerLandscape1845.jpg": "/yeuxdeMona/static/media/19WilliamTurnerLandscape1845.6309814366bfc0e594c6.jpg",
     "static/media/07RembrandtSelfPortraitEasel1660.jpg": "/yeuxdeMona/static/media/07RembrandtSelfPortraitEasel1660.1bb56ae75c99072191fd.jpg",
     "static/media/43PabloPicassoL'aubade1942.jpg": "/yeuxdeMona/static/media/43PabloPicassoL'aubade1942.ecc9d9e9d245ae6b74a8.jpg",
     "static/media/37KazimirMalevichBlackCross1915.jpg": "/yeuxdeMona/static/media/37KazimirMalevichBlackCross1915.3a2d80713025a1e4457c.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.864d5282.js.map": "/yeuxdeMona/static/js/main.864d5282.js.map",
+    "main.e25d0ed4.js.map": "/yeuxdeMona/static/js/main.e25d0ed4.js.map",
     "453.656cfc3f.chunk.js.map": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.864d5282.js"
+    "static/js/main.e25d0ed4.js"
   ]
 }
