@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.dd7d240f.js",
+    "main.js": "/yeuxdeMona/static/js/main.ccb85d40.js",
     "static/js/453.656cfc3f.chunk.js": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
@@ -32,6 +32,7 @@
     "static/media/30VanGoghL'eglise1890.png": "/yeuxdeMona/static/media/30VanGoghL'eglise1890.bcda8b11c9238722d0ff.png",
     "static/media/23JamesWhistlerArrangeinGray1891.jpg": "/yeuxdeMona/static/media/23JamesWhistlerArrangeinGray1891.f6a235ccd33748f6c6f4.jpg",
     "static/media/35VassilyKandinskyBleuChevalier1911.jpeg": "/yeuxdeMona/static/media/35VassilyKandinskyBleuChevalier1911.e7137c460fd7208f8424.jpeg",
+    "static/media/49LouiseBourgeoisPreciousLiquids1992.jpeg": "/yeuxdeMona/static/media/49LouiseBourgeoisPreciousLiquids1992.f7c131fd0eba94f79aca.jpeg",
     "static/media/44JacksonPollockSilverBWYR1948.jpg": "/yeuxdeMona/static/media/44JacksonPollockSilverBWYR1948.2c0dce7ff7b4a4fff21f.jpg",
     "static/media/31CamilleClauderlMaturity1898.png": "/yeuxdeMona/static/media/31CamilleClauderlMaturity1898.ca4c3c9cea78176a19a5.png",
     "static/media/18CasparDavidFriedrichTreeOfCrows1822.jpg": "/yeuxdeMona/static/media/18CasparDavidFriedrichTreeOfCrows1822.f60c7ff81a45e0272779.jpg",
@@ -48,16 +49,16 @@
     "static/media/19WilliamTurnerLandscape1845.jpg": "/yeuxdeMona/static/media/19WilliamTurnerLandscape1845.6309814366bfc0e594c6.jpg",
     "static/media/07RembrandtSelfPortraitEasel1660.jpg": "/yeuxdeMona/static/media/07RembrandtSelfPortraitEasel1660.1bb56ae75c99072191fd.jpg",
     "static/media/43PabloPicassoL'aubade1942.jpg": "/yeuxdeMona/static/media/43PabloPicassoL'aubade1942.ecc9d9e9d245ae6b74a8.jpg",
-    "static/media/4BasquiatSansTitre1960.jpeg": "/yeuxdeMona/static/media/4BasquiatSansTitre1960.f5b99985d46b134becc0.jpeg",
+    "static/media/48BasquiatSansTitre1960.jpeg": "/yeuxdeMona/static/media/48BasquiatSansTitre1960.f5b99985d46b134becc0.jpeg",
     "static/media/47Anna-EvaBergmanProueNoire1909.jpeg": "/yeuxdeMona/static/media/47Anna-EvaBergmanProueNoire1909.069adeb93aa63c482a42.jpeg",
     "static/media/37KazimirMalevichBlackCross1915.jpg": "/yeuxdeMona/static/media/37KazimirMalevichBlackCross1915.3a2d80713025a1e4457c.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.dd7d240f.js.map": "/yeuxdeMona/static/js/main.dd7d240f.js.map",
+    "main.ccb85d40.js.map": "/yeuxdeMona/static/js/main.ccb85d40.js.map",
     "453.656cfc3f.chunk.js.map": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.dd7d240f.js"
+    "static/js/main.ccb85d40.js"
   ]
 }
