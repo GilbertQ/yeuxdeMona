@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yeuxdeMona/static/css/main.c5e32151.css",
-    "main.js": "/yeuxdeMona/static/js/main.6298b3ad.js",
+    "main.js": "/yeuxdeMona/static/js/main.1d777b39.js",
     "static/js/453.656cfc3f.chunk.js": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js",
     "static/media/06FransHalsLaGitana1630.jpg": "/yeuxdeMona/static/media/06FransHalsLaGitana1630.929ef50c1a8e8dc83168.jpg",
     "static/media/09NicolasPoussinArcadia1638.jpeg": "/yeuxdeMona/static/media/09NicolasPoussinArcadia1638.0f2a0440160928cb8384.jpeg",
@@ -52,15 +52,15 @@
     "static/media/43PabloPicassoL'aubade1942.jpg": "/yeuxdeMona/static/media/43PabloPicassoL'aubade1942.ecc9d9e9d245ae6b74a8.jpg",
     "static/media/48BasquiatSansTitre1960.jpeg": "/yeuxdeMona/static/media/48BasquiatSansTitre1960.f5b99985d46b134becc0.jpeg",
     "static/media/47Anna-EvaBergmanProueNoire1909.jpeg": "/yeuxdeMona/static/media/47Anna-EvaBergmanProueNoire1909.069adeb93aa63c482a42.jpeg",
-    "static/media/5CharlesBotanskiLavieimpossibledeCB2001.jpg": "/yeuxdeMona/static/media/5CharlesBotanskiLavieimpossibledeCB2001.add70811b00dd65f8c90.jpg",
+    "static/media/51CharlesBotanskiLavieimpossibledeCB2001.jpg": "/yeuxdeMona/static/media/51CharlesBotanskiLavieimpossibledeCB2001.add70811b00dd65f8c90.jpg",
     "static/media/37KazimirMalevichBlackCross1915.jpg": "/yeuxdeMona/static/media/37KazimirMalevichBlackCross1915.3a2d80713025a1e4457c.jpg",
     "index.html": "/yeuxdeMona/index.html",
     "main.c5e32151.css.map": "/yeuxdeMona/static/css/main.c5e32151.css.map",
-    "main.6298b3ad.js.map": "/yeuxdeMona/static/js/main.6298b3ad.js.map",
+    "main.1d777b39.js.map": "/yeuxdeMona/static/js/main.1d777b39.js.map",
     "453.656cfc3f.chunk.js.map": "/yeuxdeMona/static/js/453.656cfc3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e32151.css",
-    "static/js/main.6298b3ad.js"
+    "static/js/main.1d777b39.js"
   ]
 }
